@@ -1,10 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:ff47a7,100:FFEAEA&height=200&section=header&text=Dahye%20Shin&fontSize=80&desc=Desc&descSize=20&descAlignY=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:ff47a7,100:FFEAEA&height=200&section=header&text=Dahye%20Shin&fontSize=80&animation=fadeIn)
 
 <div align="center">
-👋 Hi there,
+<h3>👋 Hi there</h3>
 
 I'm Dahye Shin, a back-end developer. ☘ <br/>
 Currently, I'm growing by working on various projects. 🌷
+
+<h3>✍Tech Stack</h3>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+
 </div>
+
 
 ![snake gif](https://github.com/Dahye73/Dahye73/blob/output/github-contribution-grid-snake.svg)
