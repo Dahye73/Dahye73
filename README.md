@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:ff47a7,100:FFEAEA&height=200&section=header&text=Dahye%20Shin&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:ff47a7,100:FFEAEA&height=200&section=header&text=Dahye%20Shin&fontSize=70&animation=fadeIn)
 
 <div align="center">
 <h3>👋 Hi there</h3>
