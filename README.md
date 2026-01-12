@@ -21,5 +21,4 @@ Currently, I'm growing by working on various projects. 🌷
 </div>
 
 
-![snake](https://raw.githubusercontent.com/Dahye73/Dahye73/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake](https://raw.githubusercontent.com/Dahye73/Dahye73/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Dahye73/Dahye73/blob/output/github-contribution-grid-snake.svg)
