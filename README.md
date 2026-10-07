@@ -16,7 +16,7 @@ Currently, I'm growing by working on various projects. 🌷
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 </div>
@@ -24,4 +24,3 @@ Currently, I'm growing by working on various projects. 🌷
 
 ![snake](https://raw.githubusercontent.com/Dahye73/Dahye73/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake](https://raw.githubusercontent.com/Dahye73/Dahye73/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
